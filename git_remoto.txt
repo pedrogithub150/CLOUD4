@@ -1,0 +1,6 @@
+
+ o comando git clone realiza um clone local do nosso projecto no GitHub
+
+ o comando git push envia os arquivos ou commits pretendidos do nosso branch local para um repositorio remoto
+
+ o comando git pull recebe as alterações realizadas e que constam no repositório para o nosso computador.
